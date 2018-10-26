@@ -8,13 +8,13 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-var userChoice = ""
-var computerChoice = ""
-var winner = ""
+var userChoice = "";
+var computerChoice = "";
+var winner = "";
 var randomNumber = 0;
 
 $("#shoot").click(function(){
-    userChoice = $("#input").val();
+    userChoice = $("#input").val().toUpperCase();
     $("#userChoice").text(userChoice);
     randomNumber = Math.random();
     
