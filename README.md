@@ -10,7 +10,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/rockpaperscissors
 - [x] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
+- [x] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 
 ### HTML
@@ -20,7 +20,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] Add a click handler that displays the value of the input within the div with the id `#userChoice`
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 - [ ] Save and submit your website using the link on the Daily Session Document.
 
 ## Day 2
@@ -33,7 +33,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] In your click handler, store the input value in the userChoice variable	
 - [x] In your click handler, display userChoice to the screen
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
@@ -42,15 +42,15 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] Display the computerChoice to the screen
 - [x] Write a conditional statement that compares the userChoice to the computerChoice to determine the winner of the game
 - [x] Display the winner to the screen in the result div
-- [ ] Clear the input value once a result is displayed
+- [x] Clear the input value once a result is displayed
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Projects Extensions:
 - [ ] Style the page to fit your personality
 - [ ] Validates input so that it will return “Not valid input” if the user types in a wrong choice. 
-- [ ] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
+- [x] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
 - [ ] Keeps track of total wins and losses, until the page refreshes. 
 - [ ] Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
 

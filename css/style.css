@@ -1,9 +1,31 @@
 .row{
   text-align:center;
-  
+  font-family: 'Poor Story', cursive;
 }
 #choices{
   display:flex;
   justify-content:space-between;
   
+}
+
+body {
+  background-color:#e06969;
+}
+
+h1 {
+  font-size: 60px;
+  border-style: dashed;
+  border-color: black;
+}
+h3 {
+  font-size: 40px;
+}
+#choices {
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#result {
+  font-size: 30px;
 }

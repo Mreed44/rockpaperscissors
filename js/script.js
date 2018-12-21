@@ -15,7 +15,8 @@ var randomNumber = 0;
 
 $("#shoot").click(function(){
     userChoice = $("#input").val().toUpperCase();
-    $("#userChoice").text(userChoice);
+    $("#userChoice").html(userChoice);
+    $("#input").val("");
     randomNumber = Math.random();
     
     if(randomNumber> .66) {
